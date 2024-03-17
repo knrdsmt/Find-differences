@@ -3,7 +3,7 @@
 This repository contains two Python programs aimed at processing images:
 
 1. **Image Difference and Bounding Box Highlighting**: This program, named `add_bounding_box.py`, detects differences between two input images and highlights them using bounding boxes.
-2. **Background Removal**: The second program, named `delete_backgroung.py`, removes the background from an image based on a specified bounding box.
+2. **Background Removal**: The second program, named `delete_background.py`, removes the background from an image based on a specified bounding box.
 
 ## Example
 Image modyfied with Kewin
